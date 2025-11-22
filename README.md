@@ -5,4 +5,4 @@ This repository contains a pair of simple command-line tools that will help you 
 
 ## Using the BMI Tool
 
-Simply run the tool of your choice in Python from the command prompt, enter your height and weight, and the tool will calculate your BMI for you.
+Simply run the tool of your choice in Python from the command prompt, enter your height and weight when prompted, and the tool will calculate your BMI for you.
